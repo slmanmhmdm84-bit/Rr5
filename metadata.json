@@ -1,0 +1,6 @@
+{
+  "name": "Arena Champions",
+  "description": "Fast-paced 2D arcade fighting game featuring unique champions, smart tactical AI, 6 challenge levels, custom arenas, and fluid 60fps combat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
